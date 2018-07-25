@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp-terminal_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unalo/bootcamp-terminal_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unalo/bootcamp-terminal_tests/issues"
+  },
+  "homepage": "https://github.com/Unalo/bootcamp-terminal_tests#readme"
+}
